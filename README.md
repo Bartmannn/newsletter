@@ -2,9 +2,6 @@
 
 Program do przeglądania wiadomości za Ciebie! Co minutę odwiedza tvn24.pl w poszukiwaniu nowych wiadomości.
 
-## Demo
-![demo]()
-
 ## Użycie
 ```bash
 git clone https://github.com/Bartmannn/newsletter.git
